@@ -1,6 +1,6 @@
-# <div align="center">
-#   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=440&lines=Hi,+I'm+Flaviano+Aguiar+👋;Computer+Science+Enthusiast;Full+Stack+Developer+🚀" alt="Typing SVG" />
-# </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi,+I'm+Flaviano+Aguiar+👋;Computer+Science+Enthusiast;Full+Stack+Developer+🚀;From+Brazil+🇧🇷" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -84,8 +84,8 @@ Currently pursuing **Information Systems** at **Unifacisa** while developing pra
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviano-filho@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviano-aguiar-173a93343)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavio083)
 
 </div>
