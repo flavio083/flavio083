@@ -6,9 +6,9 @@
 
 ---
 
-# 🙋 About Me
+# 👨🏾‍💻 About Me
 
-I'm a passionate **19-year-old developer** from Brazil 🇧🇷.
+I'm **19-year-old developer** from Brazil 🇧🇷.
 
 Currently studying **Information Systems at Unifacisa** and building real-world projects focused on backend development, databases, and full-stack applications.
 
